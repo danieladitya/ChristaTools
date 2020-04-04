@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\bin\Release\watermark.dll
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\bin\Release\watermark.pdb
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\WatermarkIt.csprojAssemblyReference.cache
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\watermarkit.MainForm.resources
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\watermarkit.Properties.Resources.resources
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\WatermarkIt.csproj.GenerateResource.cache
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\WatermarkIt.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\WatermarkIt.csproj.CopyComplete
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\bin\Release\ChristaSoft.exe.manifest
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\bin\Release\ChristaSoft.application
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\bin\Release\ChristaSoft.exe
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\bin\Release\ChristaSoft.pdb
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\ChristaSoft.exe.manifest
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\ChristaSoft.application
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\ChristaSoft.exe
+C:\Users\user\Downloads\demo_watermark\WatermarkIt\obj\Release\ChristaSoft.pdb

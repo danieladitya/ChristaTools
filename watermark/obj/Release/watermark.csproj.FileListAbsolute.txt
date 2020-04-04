@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\demo_watermark\watermark\bin\Release\watermark.dll
+C:\Users\user\Downloads\demo_watermark\watermark\bin\Release\watermark.pdb
+C:\Users\user\Downloads\demo_watermark\watermark\obj\Release\watermark.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\demo_watermark\watermark\obj\Release\watermark.dll
+C:\Users\user\Downloads\demo_watermark\watermark\obj\Release\watermark.pdb

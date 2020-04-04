@@ -1,0 +1,6 @@
+C:\Users\user\Downloads\demo_watermark\watermark\bin\Debug\watermark.dll
+C:\Users\user\Downloads\demo_watermark\watermark\bin\Debug\watermark.pdb
+C:\Users\user\Downloads\demo_watermark\watermark\obj\Debug\watermark.csprojAssemblyReference.cache
+C:\Users\user\Downloads\demo_watermark\watermark\obj\Debug\watermark.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\demo_watermark\watermark\obj\Debug\watermark.dll
+C:\Users\user\Downloads\demo_watermark\watermark\obj\Debug\watermark.pdb
